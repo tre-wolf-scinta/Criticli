@@ -1,0 +1,12 @@
+--- Test: Critical Match (5,5) vs DC 15 ---
+Dice: [5 Hope] [5 Fear]
+Total: 10 | Outcome: CRITICAL SUCCESS!
+
+--- Test: Success with Fear (4,8) +2 vs DC 12 ---
+Dice: [4 Hope] [8 Fear]
+Total: 14 | Outcome: Success with Fear
+
+--- Test: Failure with Hope (3,1) vs DC 10 ---
+Dice: [3 Hope] [1 Fear]
+Total: 4 | Outcome: Failure with Hope
+
